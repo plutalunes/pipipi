@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     setTimeout(() => {
-      window.location.href = 'ttt.html';
+      window.location.href = "token.html";
     }, 300);
   });
 });
